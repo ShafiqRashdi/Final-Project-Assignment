@@ -2,13 +2,7 @@ Tournee Arena
 
 4 website 1 database
 
-Shafiq - 123Parking
-
-Zuhair - Simcards
-
-Saiful - ML Diamonds
-
-Putra - DaMovie
+Shafiq - 123Parking      Zuhair - Simcards      Saiful - ML Diamonds      Putra - DaMovie
 
 
 MUHAMMAD SHAFIQ RASHD BIN MOHD SAZELI (AM2412018155)
